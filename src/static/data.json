@@ -1,0 +1,17 @@
+{
+    "nodes": [
+        {
+          "name": "taji_user(用户表)",
+          "group": 1
+        },
+        {
+          "name": "zs_scan_record(扫码记录)",
+          "group": 1
+        },
+        {
+          "name": "zs_scan_record(扫码记录)",
+          "group": 1
+        }
+    ]
+    
+}
